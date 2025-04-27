@@ -1,0 +1,6 @@
+# Ignore VS Code settings
+.vscode/
+settings.json/
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
